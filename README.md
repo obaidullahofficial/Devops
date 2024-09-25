@@ -1,4 +1,4 @@
 # Devops
-for lab task of devops 
+For lab task of devops 
 Good luck :)
 
